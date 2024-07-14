@@ -8,15 +8,9 @@ Installation
 
 Install the required dependencies using pip:
 
+
 Bash
 pip install sqlalchemy pandas
 Use code with caution.
 
-Usage
 
-Replace the placeholders with your actual database credentials:
-
-'root': Replace with your MySQL username.
-'system1234': Replace with your MySQL password.
-'localhost': Replace with the hostname or IP address of your MySQL server.
-'db_new': Replace with the name of your MySQL database.
